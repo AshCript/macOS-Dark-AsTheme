@@ -4,7 +4,7 @@
 
 Theme reproducing the clean and bright look of Apple's OS (but in dark mode)
 
-![macOS-dark](https://github.com/AshCript/macOS-Dark-AsTheme/patiny.png)
+![macOS-dark](https://github.com/AshCript/macOS-Dark-AsTheme/blob/master/patiny.png)
 
 **Maintainer :** [Elbullazul](https://github.com/Elbullazul)
 
